@@ -12,3 +12,6 @@ You will need to add the script tags to the index to run locally:
  [beauty-invaders web editor](https://editor.p5js.org/greggelong/present/SuTjMrwrh)
  
  [beauty-invaders at github](https://greggelong.github.io/p5-sketches-from-web-editor/beauty-invaders/)
+
+
+[wolf one](https://greggelong.github.io/p5-sketches-from-web-editor//wolf-automata/one/)
