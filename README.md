@@ -24,5 +24,7 @@ You will need to add the script tags to the index to run locally:
 
 [golden rectangle](https://greggelong.github.io/p5-sketches-from-web-editor/everythingability-recursive-golden-rect/)
 
+recusive golden rect elegant code suplied by /remarkability /everythingability
 
+----
 
