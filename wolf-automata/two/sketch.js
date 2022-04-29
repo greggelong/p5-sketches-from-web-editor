@@ -35,7 +35,7 @@ function draw() {
     console.log(generation);
     displayCells(generation);
     if (generation*cellw > height){
-      background(255);
+      //background(255);
       generation=0;
     }
     
