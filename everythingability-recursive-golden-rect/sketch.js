@@ -8,6 +8,7 @@ var img;
  
 function setup(){
  createCanvas(1300, 803);
+ background(0);
    
   
   print(width / phi);
