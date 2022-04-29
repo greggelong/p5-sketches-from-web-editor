@@ -14,4 +14,6 @@ You will need to add the script tags to the index to run locally:
  [beauty-invaders at github](https://greggelong.github.io/p5-sketches-from-web-editor/beauty-invaders/)
 
 
-[wolf one](https://greggelong.github.io/p5-sketches-from-web-editor//wolf-automata/one/)
+[wolfram automata one](https://greggelong.github.io/p5-sketches-from-web-editor//wolf-automata/one/)
+
+[wolfram automata two](https://greggelong.github.io/p5-sketches-from-web-editor//wolf-automata/two/)
