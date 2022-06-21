@@ -11,6 +11,7 @@ function setup() {
   cat = new Oword("cat", ["small", "mammal",], 200, 500, color(200, 200, 0));
   
   listOfThings = [cat,turtle,elephant,dog];
+  frameRate(2);
 
 
 
