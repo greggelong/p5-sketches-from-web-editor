@@ -32,3 +32,10 @@ arecibo message
 
 [arecibo](https://greggelong.github.io/p5-sketches-from-web-editor/arecibo)
 
+
+----
+
+odd one out
+
+
+[odd-one-out](https://greggelong.github.io/p5-sketches-from-web-editor/odd-one-out)
