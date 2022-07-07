@@ -49,3 +49,6 @@ festive Pascal triangle
 
 
 [flappy cosmos](https://greggelong.github.io/p5-sketches-from-web-editor/flappy-cosmos-drake)
+
+[lissajous-curve](https://greggelong.github.io/p5-sketches-from-web-editor/lissajous-curve/)
+lissajous-curve/
