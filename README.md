@@ -39,3 +39,8 @@ odd one out
 
 
 [odd-one-out](https://greggelong.github.io/p5-sketches-from-web-editor/odd-one-out)
+
+
+festive Pascal triangle
+
+[pascal triangle](https://greggelong.github.io/p5-sketches-from-web-editor/pascal-triangle-festive/)
