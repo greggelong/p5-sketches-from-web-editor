@@ -48,4 +48,4 @@ festive Pascal triangle
 [not-known-goodness](https://greggelong.github.io/p5-sketches-from-web-editor/not-known-goodness/not-known-goodness-vertex/)
 
 
-[flappy cosmos](https://greggelong.github.io/p5-sketches-from-web-editor/p5-sketches-from-web-editor/flappy-cosmos-drake)
+[flappy cosmos](https://greggelong.github.io/p5-sketches-from-web-editor/flappy-cosmos-drake)
